@@ -12,7 +12,8 @@ Nathaniel
 
 Hagan
     -Studstay updates
-    -CRM hosting 
+    -CRM hosting
+    - Studstay e-mail verification
 
 Andrews
     -Debugging hostel website
@@ -33,4 +34,9 @@ Elijah
     - 4 Ashantiweb flyer designs 
     - Compiled Smartribe books on photoshop
     - Studstay T-shirt design
+
+Otabil
+    - Video shooting at Lobab for Smartribe
+    - Smartribe video editing
+    - Video shooting at Smartribe studio 
 
